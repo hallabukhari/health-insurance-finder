@@ -4,5 +4,6 @@ optuna
 pandas
 scikit-learn
 seaborn
+xgboost
 
 
